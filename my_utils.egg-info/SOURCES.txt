@@ -1,0 +1,13 @@
+MANIFEST.in
+README.txt
+setup.py
+my_utils/__init__.py
+my_utils/benchmarks.py
+my_utils/compute.py
+my_utils/games.py
+my_utils/util.py
+my_utils.egg-info/PKG-INFO
+my_utils.egg-info/SOURCES.txt
+my_utils.egg-info/dependency_links.txt
+my_utils.egg-info/top_level.txt
+my_utils/test/__init__.py
